@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">+I'm+Rodney+%F0%9F%98%80;I'm+a+software+developer+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Rodney+%F0%9F%98%80;I'm+a+software+developer+%E2%9C%A8)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ About Me
 
