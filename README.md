@@ -73,7 +73,7 @@
 
 </p>
 
-<p align="left"> <a href="https://github.com/RodChak/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodChak&theme=nord&row=1&column=6" alt="Rodney's_Trophys" /></a> </p>
+<p align="center"> <a href="https://github.com/RodChak/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodChak&theme=nord&row=1&column=6" alt="Rodney's_Trophys" /></a> </p>
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
