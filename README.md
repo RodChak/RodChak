@@ -29,8 +29,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href=" https://visualstudio.microsoft.com/" target="_blank"> <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cGF0aCBmaWxsPSIjMjliNmY2IiBkPSJNNDQsMTEuMTF2MjUuNzhjMCwxLjI3LTAuNzksMi40LTEuOTgsMi44MmwtOC44Miw0LjE0TDM0LDMzVjE1TDMzLjIsNC4xNWw4LjgyLDQuMTQgQzQzLjIxLDguNzEsNDQsOS44NCw0NCwxMS4xMXoiPjwvcGF0aD48cGF0aCBmaWxsPSIjMDI3N2JkIiBkPSJNOSwzMy44OTZMMzQsMTVWNS4zNTNjMC0xLjE5OC0xLjQ4Mi0xLjc1OC0yLjI3NS0wLjg2TDQuNjU4LDI5LjIzOSBjLTAuOSwwLjgzLTAuODQ5LDIuMjY3LDAuMTA3LDMuMDMyYzAsMCwxLjMyNCwxLjIzMiwxLjgwMywxLjU3NEM3LjMwNCwzNC4zNyw4LjI3MSwzNC40Myw5LDMzLjg5NnoiPjwvcGF0aD48cGF0aCBmaWxsPSIjMDI4OGQxIiBkPSJNOSwxNC4xMDRMMzQsMzN2OS42NDdjMCwxLjE5OC0xLjQ4MiwxLjc1OC0yLjI3NSwwLjg2TDQuNjU4LDE4Ljc2MSBjLTAuOS0wLjgzLTAuODQ5LTIuMjY3LDAuMTA3LTMuMDMyYzAsMCwxLjMyNC0xLjIzMiwxLjgwMy0xLjU3NEM3LjMwNCwxMy42Myw4LjI3MSwxMy41Nyw5LDE0LjEwNHoiPjwvcGF0aD48L3N2Zz4="/></a>                                                                    
-</p>
+    <a href=" https://visualstudio.microsoft.com/" target="_blank"> <img alt="svgImg" <img src="https://img.icons8.com/fluency/48/000000/figma.png"/></a>
 
 <br/>
 
