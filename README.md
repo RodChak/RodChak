@@ -23,6 +23,7 @@
 <br/>
 <br/>
 
+<div align="center">
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -74,3 +75,4 @@
     <img src="https://komarev.com/ghpvc/?username=RodChak">
 </a>
 <a href="https://github.com/RodChak?tab=followers"><img src="https://img.shields.io/github/followers/RodChak?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
