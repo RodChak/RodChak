@@ -73,7 +73,9 @@
 
 </p>
 
-## ❤ Views and Followers
+<p align="left"> <a href="https://github.com/RodChak/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorsyboy&theme=nord&row=1&column=6" alt="yorsboy" /></a> </p>
+
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=RodChak">
 </a>
