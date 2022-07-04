@@ -65,12 +65,14 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
+<br>
 
 ## Find me around the web 🌎: <a href="https://github.com/Favourezeugwa"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Tinkering with interactions on <a href="#"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/rtc97/">LinkedIn</a> 💼
 - Contact me on <a href="rodneychakesha@gmail.com/">Gmail</a> 📫
-
+<br>
+<br>
 
 
 <p align="center"> <a href="https://github.com/RodChak/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodChak&theme=nord&row=1&column=6" alt="Rodney's_Trophys" /></a> </p>
