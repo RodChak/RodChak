@@ -79,8 +79,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 <br>
+<br>
 
 <p align="center"> <a href="https://github.com/RodChak/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodChak&theme=nord&row=1&column=6" alt="Rodney's_Trophys" /></a> </p>
+<br>
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
