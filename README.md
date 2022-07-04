@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/RodChak/github-readme-activity-graph"><img alt="Rodney Chakwesha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RodChak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/RodChak/github-readme-activity-graph"><img alt="Rodney's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RodChak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
