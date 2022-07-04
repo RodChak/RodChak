@@ -8,7 +8,7 @@
 
 - 🔭 Student at **[Microverse](https://www.microverse.org/)**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScrip**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
