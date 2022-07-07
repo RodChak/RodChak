@@ -29,7 +29,7 @@
 
 <div align="center">
     
-## 🛠 &nbsp;Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack
 
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
