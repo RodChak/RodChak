@@ -36,6 +36,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href=" https://www.figma.com/" target="_blank"> <img alt="svgImg" <img src="https://img.icons8.com/fluency/46/000000/figma.png"/></a>
+    <a href=" https://getbootstrap.com/ target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
     <a href=" https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png"/></a>
     <a href=" https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 
